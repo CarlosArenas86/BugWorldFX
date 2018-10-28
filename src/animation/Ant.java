@@ -10,6 +10,7 @@ public class Ant extends Thing {
 		name="ant";
 		imagen= new Image(getClass().getResourceAsStream("Imagen/ant.png"));
 		body.setFill(new ImagePattern(imagen));
+		//another comment
 		// TODO Auto-generated constructor stub
 		
 		//first comment.
